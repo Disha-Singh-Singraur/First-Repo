@@ -1,4 +1,4 @@
 # First-Repo
 This is my first git-hub repository
 <br>
-Author - Disha 
+Author - Disha Singh Singraur(student)
